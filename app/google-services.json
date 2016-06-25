@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "274186544214",
+    "project_id": "socialconnect-c6278"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274186544214:android:2abaca516a3a9f16",
+        "android_client_info": {
+          "package_name": "com.wissen.sconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkYdvhSWHjH45G53R4U4wKrf_uPJa9CA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
